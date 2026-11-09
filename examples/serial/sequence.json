@@ -1,0 +1,1 @@
+{"id":3,"command":"run_sequence","repeat":3,"steps":[{"leds":["red"],"duration_ms":500},{"leds":["green"],"duration_ms":500}]}
